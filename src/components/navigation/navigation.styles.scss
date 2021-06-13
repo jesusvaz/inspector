@@ -1,0 +1,30 @@
+
+  // I am ok with thi one
+  .homepage {
+    display: flex;
+    align-items: center;
+    padding: 20px 80px;
+  }
+
+  .logo{
+    flex:1;
+    
+  }
+
+  .directory-menu {
+   flex:1;
+  }
+   
+  img{
+      border-radius: 25px;
+      padding: 20px; 
+  }
+
+  hr{
+    border-top: 1px solid #1c4fa8;
+    width: 100vh;
+  }
+  
+  a{
+    text-decoration: none;
+  }
